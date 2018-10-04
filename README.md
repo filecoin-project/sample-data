@@ -27,28 +27,28 @@ For more documentation on how to use Filecoin, go to the [go-filecoin wiki](http
 
 ## Data in this folder
 
-`angry-cat.jpg`
+`angry-cat.jpg`<br />
 ![Angry cat](/angry-cat.jpg)
 
-`baby-elephant.jpg`
+`baby-elephant.jpg`<br />
 ![Baby elephant](/baby-elephant.jpg)
 
-`camel.jpg`
+`camel.jpg`<br />
 ![Camel](/camel.jpg)
 
-`corgi.jpg`
+`corgi.jpg`<br />
 ![Corgi](/corgi.jpg)
 
-`dolan.png`
+`dolan.png`<br />
 ![Dolan](/dolan.png)
 
-`dolphin.jpg`
+`dolphin.jpg`<br />
 ![Dolphin](/dolphin.jpg)
 
-`happy-puppy.jpg`
+`happy-puppy.jpg`<br />
 ![Happy puppy](/happy-puppy.jpg)
 
-`invictus.txt`
+`invictus.txt`<br />
 ```
 "Invictus" 
 by William Ernest Henley
@@ -75,40 +75,40 @@ I am the master of my fate,
       I am the captain of my soul. 
 ```
 
-`kitten.jpg`
+`kitten.jpg`<br />
 ![Kitten](/kitten.jpg)
 
-`krakow-animated.jpg`
+`krakow-animated.jpg`<br />
 ![Krakow animated](/krakow-animated.jpg)
 
-`lemur.jpg`
+`lemur.jpg`<br />
 ![Lemur](/lemur.jpg)
 
-`nasa-andromeda.jpg`
+`nasa-andromeda.jpg`<br />
 ![Andromeda](/nasa-andromeda.jpg)
 
-`nasa-coronas-black-holes.jpg`
+`nasa-coronas-black-holes.jpg`<br />
 ![Coronas/Black holes](/nasa-coronas-black-holes.jpg)
 
-`nasa-earth.jpg`
+`nasa-earth.jpg`<br />
 ![Earth](/nasa-earth.jpg)
 
-`nasa-high-energy-x-rays.jpg`
+`nasa-high-energy-x-rays.jpg`<br />
 ![High energy X-rays](/nasa-high-energy-x-rays.jpg)
 
-`neurotic-puppy.jpg`
+`neurotic-puppy.jpg`<br />
 ![Neurotic puppy](/neurotic-puppy.jpg)
 
-`panda-hug.jpg`
+`panda-hug.jpg`<br />
 ![Pandas hugging](/panda-hug.jpg)
 
-`puppy.jpg`
+`puppy.jpg`<br />
 ![Puppy](/puppy.jpg)
 
-`rotating-earth.gif`
+`rotating-earth.gif`<br />
 ![Rotating Earth](/rotating-earth.gif)
 
-`sick-shel-silverstein.txt`
+`sick-shel-silverstein.txt`<br />
 ```
 "Sick"
 by Shel Silverstein
@@ -147,8 +147,8 @@ You say today is. . .Saturday?
 G’bye, I’m going out to play!”
 ```
 
-`swiral-testav.gif`
+`swiral-testav.gif`<br />
 ![Swiral Testav](/swiral-testav.gif)
 
-`woke-puppy.jpg`
+`woke-puppy.jpg`<br />
 ![Woke puppy](/woke-puppy.jpg)
