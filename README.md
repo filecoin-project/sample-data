@@ -8,24 +8,7 @@ All files in this folder are covered under Creative Commons (CC) licenses that a
 
 ## Storing data in Filecoin
 
-```Shell
-cd $GOPATH/src/github.com/filecoin-project/go-filecoin
-
-// Import image from sample data; returns content identifier 
-// <CID>
-go-filecoin client import path/to/sample-data/camel.jpg
-
-// Find a storage miner whose ask meets your needs
-go-filecoin orderbook asks | jq
-
-// Propose storage deal. Find <miner address> from the ask. 
-// If the deal is accepted, you will see a return value like 
-// "Status: accepted". Note that duration here is in number of 
-// blocks (each block takes 30s to produce).
-go-filecoin client propose-storage-deal <miner address> <CID> <duration> --price=<price>
-```
-
-For more documentation on how to use Filecoin, go to the [go-filecoin wiki](https://github.com/filecoin-project/go-filecoin/wiki).
+For documentation on how to store data in Filecoin, go to the [go-filecoin wiki](https://github.com/filecoin-project/go-filecoin/wiki/4.-Storing-on-Filecoin).
 
 ## Data in this folder
 
@@ -159,5 +142,5 @@ G’bye, I’m going out to play!”
 
 The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
 
-- Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/sample-data/blob/cleanup/LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
-- MIT license ([LICENSE-MIT](https://github.com/filecoin-project/sample-data/blob/cleanup/LICENSE-MIT) or http://opensource.org/licenses/MIT)
+- Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/sample-data/blob/master/LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+- MIT license ([LICENSE-MIT](https://github.com/filecoin-project/sample-data/blob/master/LICENSE-MIT) or http://opensource.org/licenses/MIT)
